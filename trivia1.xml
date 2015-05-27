@@ -1,0 +1,121 @@
+<trivia>
+	<item category="History">
+		<question>In what year was Decoration of Independence created?</question>
+		<answers>
+			<answer>1776</answer>
+			<answer>1770</answer>
+			<answer>1800</answer>
+			<answer>2000</answer>
+		</answers>
+		<hint>July 4th</hint>
+		<fact>Drafted by Thomas Jefferson between June 11 and June 28, 1776, the Declaration of Independence is at once the nation's most cherished symbol of liberty and Jefferson's most enduring monument.</fact>
+	</item>
+	
+	<item category="History">
+		<question>How long did the Civil War took?</question>
+		<answers>
+			<answer>1861-1865.</answer>
+			<answer>1780-1800</answer>
+			<answer>1850-1875</answer>
+			<answer>1940-1946</answer>
+		</answers>
+		<hint>In the 19th century.</hint>
+		<fact>The Civil War is the central event in America's historical consciousness. While the Revolution of 1776-1783 created the United States, the Civil War of 1861-1865 determined what kind of nation it would be.</fact>
+	</item>
+	
+	<item category="History">
+		<question>What was Playstation 4 released date in US?</question>
+		<answers>
+			<answer>November 15, 2013</answer>
+			<answer>November 11, 2006</answer>
+			<answer>January 25, 2012</answer>
+			<answer>June 23, 2011</answer>
+		</answers>
+		<hint>Over 2010</hint>
+		<fact>The PlayStation 4 uses a processor developed by AMD in cooperation with Sony. It combines a central processing unit (CPU) and graphics processing unit (GPU), as well as other components such as a memory controller and video decoder.</fact>
+	</item>
+	
+	<item category="History">
+		<question>What was Xbox One released date in US?</question>
+		<answers>
+			<answer>November 22, 2013</answer>
+			<answer>September 4, 2014</answer>
+			<answer>September 29, 2014</answer>
+			<answer>November 5, 2013</answer>
+		</answers>
+		<hint>In the 2013	</hint>
+		<fact>It is powered by an AMD "Jaguar" Accelerated Processing Unit (APU) with two quad-core modules totaling eight x86-64 cores clocked at 1.75 GHz,and 8 GB of DDR3 RAM with a memory bandwidth of 68.3 GB/s.</fact>
+	</item>
+
+	<item category="Science">
+		<question>If you drill a hole straight through the Earth and jumped in it, how long will it take to the other side?</question>
+		<answers>
+			<answer>42 minutes and 12 seconds</answer>
+			<answer>2 hours</answer>
+			<answer>1 hour 42 minutes</answer>
+			<answer>50 minutes</answer>
+		</answers>
+		<hint>Below one hour</hint>
+		<fact>Science studies that will blow your mind if what if could happen, site(https://urbantimes.co/2014/05/40-interesting-science-facts-that-will-blow-your-socks-off/)</fact>
+	</item>
+
+	<item category="Science">
+		<question>How long will Light would take to travel around the Earth?</question>
+		<answers>
+			<answer>13 seconds</answer>
+			<answer>5 seconds</answer>
+			<answer>8 seconds</answer>
+			<answer>11 seconds</answer>
+		</answers>
+		<hint>More than 10 seconds.</hint>
+		<fact>Science studies that will blow your mind if what if could happen, site(https://urbantimes.co/2014/05/40-interesting-science-facts-that-will-blow-your-socks-off/)</fact>
+	</item>
+	
+	<item category="Science">
+		<question>What happens when a comet is heated by the Sun?</question>
+		<answers>
+			<answer>its ices begin to sublimate</answer>
+			<answer>it becomes a hot rock</answer>
+			<answer>it creates a little bit of water</answer>
+			<answer>it becomes bigger</answer>
+		</answers>
+		<hint>Space is very cold.</hint>
+		<fact>A comet is a very small solar system body made mostly of ices mixed with smaller amounts of dust and rock. Most comets are no larger than a few kilometres across. The main body of the comet is called the nucleus, and it can contain water, methane, nitrogen and other ices.</fact>
+	</item>
+	
+	<item category="Science">
+		<question>What will the Sun be one day?</question>
+		<answers>
+			<answer>Size of the Earth</answer>
+			<answer>Size of a small star</answer>
+			<answer>Size of a moon</answer>
+			<answer>Size of Mars</answer>
+		</answers>
+		<hint>Planet we live on.</hint>
+		<fact>After its red giant phase, the Sun will collapse, retaining its enormous mass, but containing the approximate volume of our planet. When this happens, it will be called a white dwarf.</fact>
+	</item>
+
+	<item category="Science">
+		<question>How many times is a dog sense of smell is than a human?</question>
+		<answers>
+			<answer>1000 times</answer>
+			<answer>750 times</answer>
+			<answer>920 times</answer>
+			<answer>100</answer>
+		</answers>
+		<hint>More than 750.</hint>
+		<fact>Science studies that will blow your mind if what if could happen, site(https://urbantimes.co/2014/05/40-interesting-science-facts-that-will-blow-your-socks-off/)</fact>
+	</item>
+
+	<item category="Science">
+		<question>How many years can a Solar Eclipse happen?</question>
+		<answers>
+			<answer>1-2 years</answer>
+			<answer>6 years</answer>
+			<answer>5 years and 6 months</answer>
+			<answer>3 years</answer>
+		</answers>
+		<hint>Below 5 years.</hint>
+		<fact>A total solar eclipse occurs when the Moon completely blocks the solar disk. In a total solar eclipse, the narrowest part of the path (where the Sun is completely blocked and the Moon casts its darkest shadow (called the umbra)) is called the “zone of totality”.</fact>
+	</item>	
+</trivia>
